@@ -18,12 +18,12 @@ This exercise uses Cisco Packet Tracer to explore both the Logical and Physical 
 ## Steps
 
 ### 1. Investigate Devices in a Wiring Closet
-- Navigate to the Branch Office wiring closet in Seward.
+1. Navigate to the Branch Office wiring closet in Seward.
     
   ![1 1 6 Packet Tracer Tutored Activity - Logical and Physical Mode Exploration - 1 - Map Overview - 1](https://github.com/user-attachments/assets/6d608483-daa3-49b9-82b4-dd245dac579c) <br>
 *Ref 1: Map Overview*.
     
-- Connect a PC to a switch (ALS2) using an ethernet cable.
+2. Connect a PC to a switch (ALS2) using an ethernet cable.
 
   <img src="https://github.com/user-attachments/assets/ecd9b875-c329-44b9-ba68-658028456b94" 
     alt="PC1 to ALS2 via Ethernet Cable"
@@ -33,7 +33,7 @@ This exercise uses Cisco Packet Tracer to explore both the Logical and Physical 
 ### 2. Connect End Devices to Network Devices
 PCs and laptops can be connected to networking devices using a console cable or USB cable to provide management access.
 Management access is used to view and change device configurations.
-- Connect RS232 port on the PC to the console port on the Edge Router via console cable.
+1. Connect RS232 port on the PC to the console port on the Edge Router via console cable.
 
   <img src="https://github.com/user-attachments/assets/a65dcd6f-7857-47a5-9004-dac02cef125d"
     alt="Edge Router to PC 1 via Console Cable"
@@ -42,8 +42,8 @@ Management access is used to view and change device configurations.
 
 ### 3. Install a Backup Router
 Newer models of networking devices can be connected to laptops and PCs via USB ports.
-- Install a new router in the Rack and power it on.
-- Connect the laptop to the new router with a USB cable.
+1. Install a new router in the Rack and power it on.
+2. Connect the laptop to the new router with a USB cable.
 
   <img src="https://github.com/user-attachments/assets/8e7587b3-35e9-49aa-aeb1-d329a88dd641"
     alt="Install Backup Router and Connect to Laptop 1 via USB Cable"
@@ -57,21 +57,21 @@ The Cisco Internetwork Operating System (IOS) is an operating system used in Cis
 It allows creation of configurations that customize the operation of network devices in different network environments.
 The CLI is accessible via the device console port using terminal software or remotely via Secure Shell (SSH).
 Network devices are assigned a host name for identification and configuration.
-- In the laptop, access the Desktop tab and click Terminal. Click OK to initiate the terminal connection.
+1. In the laptop, access the Desktop tab and click Terminal. Click OK to initiate the terminal connection.
 
   <img src="https://github.com/user-attachments/assets/7948b5c3-66ce-4547-ac2a-d7835c61a2da"
     alt="Accessing the Terminal on the Laptop"
     width="460" height="200"> <br>
   *Ref 5: Accessing the Terminal on the Laptop*.
 
-- Answer no to the initial question and press ENTER to reach the Router> command prompt.
+2. Answer no to the initial question and press ENTER to reach the Router> command prompt.
 
   <img src="https://github.com/user-attachments/assets/2f21c56c-73f3-44d2-a09b-8ae67d600a7e"
     alt="Changing the Hostname - Part 1"
     width="435" height="90"> <br>
   *Ref 6: Changing the Hostname - Part 1*.
   
-- Enter the following commands (in **bold**) to name the router: 
+3. Enter the following commands (in **bold**) to name the router: 
 
   <img src="https://github.com/user-attachments/assets/6b94320a-79d8-437d-982f-3c259022143b"
     alt="Changing the Hostname - Part 2"
