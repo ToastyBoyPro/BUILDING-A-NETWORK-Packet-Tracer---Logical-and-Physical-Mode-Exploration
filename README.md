@@ -78,7 +78,7 @@ Network devices are assigned a host name for identification and configuration.
     width="770" height="88"> <br>
   *Ref 7: Changing the Hostname - Part 2*.
 
-    <img src="https://github.com/user-attachments/assets/ef7c44ad-91d0-49ae-bb79-d4f61a75df4c"
+  <img src="https://github.com/user-attachments/assets/ef7c44ad-91d0-49ae-bb79-d4f61a75df4c"
     alt="Changing the Hostname Results"
     width="730" height="220"> <br>
   *Ref 8: Changing the Hostname Results*.
